@@ -1,4 +1,6 @@
-console.log("Bom dia!");
-console.log("boa tarde!");
-console.log("Boa noite!");
+console.log(1);
+
+console.log(1 + 3);
+
+console.log("Texto bem legal!");
 
